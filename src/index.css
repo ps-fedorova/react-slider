@@ -1,0 +1,77 @@
+
+.container {
+  padding: 10%;
+  background: #25272b;
+  color: white;
+  font-family: "Arial";
+  font-weight: bold;
+}
+
+.title__text {
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.slick-initialized {
+  padding: 0;
+}
+
+.card__container {
+  height: 280px;
+  overflow:hidden;
+  vertical-align:middle;
+  width: 50%;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  text-align: center;
+  font-family: Brush Script MT;
+}
+
+
+.card {
+  margin: auto;
+  object-fit: contain;
+  width: 50%;
+  height: 280px;
+}
+
+.slick-slide {
+  margin: auto;
+}
+
+.slick-next, .slick-prev {
+  height: 0;
+  width: 22px;
+}
+
+.slick-prev:before {
+  content: '\2770';
+  font-size: 50px;
+  line-height: 0;
+}
+
+.slick-next:before {
+  content: '\2771';
+  font-size: 50px;
+  line-height: 0;
+}
+
+.slick-dots li button:before {
+  color: white;
+  opacity: .3;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: 1;
+  color: white;
+}
+
+* {
+  outline: darkgreen solid 1px;
+}
