@@ -37,7 +37,7 @@
 .card {
   margin: auto;
   object-fit: contain;
-  width: 50%;
+  width: 95%;
   height: 280px;
 }
 
@@ -72,6 +72,6 @@
   color: white;
 }
 
-* {
-  outline: darkgreen solid 1px;
-}
+/** {*/
+/*  outline: darkgreen solid 1px;*/
+/*}*/
