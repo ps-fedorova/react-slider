@@ -1,4 +1,4 @@
-#[link](https://ps-fedorova.github.io/react-slider/)
+# [link](https://ps-fedorova.github.io/react-slider/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
